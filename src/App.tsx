@@ -61,23 +61,23 @@ function App() {
       { name: 'Spring Boot', level: 90 },
       { name: 'Angular', level: 85 },
       { name: 'Docker', level: 70 },
-      { name: 'Kafka', level: 75 }
+      { name: 'Kafka', level: 75 },
+      { name: 'REST/SOAP API', level: 85 },
+      { name: 'AI/ML', level: 70 },
+      { name: 'Deep Learning', level: 65 }
     ],
-    'Databases & Tools': [
+    'Databases & DevOps': [
       { name: 'MySQL', level: 80 },
       { name: 'Git', level: 85 },
-      { name: 'Jira', level: 75 },
+      { name: 'CI/CD', level: 80 },
       { name: 'JMS/EMS', level: 70 }
     ],
     'Methodologies': [
       { name: 'Agile SDLC', level: 85 },
-      { name: 'CI/CD', level: 80 },
-      { name: 'REST/SOAP API', level: 85 },
       { name: 'Full Stack Development', level: 90 },
-      { name: 'AI/ML', level: 70 },
-      { name: 'Deep Learning', level: 65 },
       { name: 'High/Low Level Design', level: 80 },
-      { name: 'Team Management', level: 75 }
+      { name: 'Team Management', level: 75 },
+      { name: 'Jira', level: 75 }
     ]
   };
 
